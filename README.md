@@ -1,5 +1,7 @@
 # Hey, I'm Hemant 👋
-
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Aspiring+Data+Science+Engineer;Learning+Machine+Learning;Exploring+Generative+AI;Building+Projects+and+Learning+Every+Day" />
+</p>
 ### Building things, learning every day, and exploring the world of Data Science & AI.
 
 I'm a Computer Science Engineering student specializing in AI & Machine Learning. I enjoy solving problems, exploring new technologies, and turning ideas into practical projects.
