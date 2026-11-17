@@ -89,29 +89,15 @@ A collaborative project focused on connecting farmers directly with customers.
 
 ---
 
-## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hemant-247&show_icons=true&theme=tokyonight&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Hemant-247&layout=compact&theme=tokyonight&hide_border=true)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=Hemant-247&theme=tokyonight&hide_border=true)
-
----
-
-## 🐍 Contribution Activity
-
-![Contribution Snake](https://raw.githubusercontent.com/Hemant-247/Hemant-247/output/github-contribution-grid-snake.svg)
-
----
 
 ## 🤝 Let's Connect
 
 I'm always open to connecting with developers, learning from others, and discussing technology, Data Science, and AI.
 
 - **GitHub:** [Hemant-247](https://github.com/Hemant-247)
-- **LinkedIn:** [Add your LinkedIn profile](YOUR_LINKEDIN_URL)
-- **Email:** Add your professional email here.
+- **Email:** hemantyadav6090@gmail.com.
 
 ---
 
